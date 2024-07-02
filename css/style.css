@@ -19,6 +19,11 @@
     padding: 5px;
     color: #3D9C0F;
     gap: 20px;
+
+}
+.cabecalho a{
+    text-decoration: none;
+    color: #3D9C0F;
 }
 svg{
  color: inherit;
